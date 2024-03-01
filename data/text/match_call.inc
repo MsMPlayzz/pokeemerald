@@ -7,11 +7,11 @@ MatchCall_WildBattleText1::
 	.string "Well, see you again!$"
 
 MatchCall_WildBattleText2::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "hi bi---, {PLAYER}{KUN}.\n"
 	.string "It's {STR_VAR_1}.\p"
-	.string "I tried to catch a nice {STR_VAR_2}\n"
+	.string "I tried to catch a shi---y {STR_VAR_2}\n"
 	.string "a little while ago.\p"
-	.string "But, it got away.\n"
+	.string "But, it used the common strategy of fu-- this sh-- im out.\n"
 	.string "I was sure disappointed!\p"
 	.string "Okay, bye!$"
 
